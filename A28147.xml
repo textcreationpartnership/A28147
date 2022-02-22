@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bill of sale In Westminster-Hall, on the 22d of January, will be sold by inch of candle, these following goods, in several parcels.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28147</idno>
+            <idno type="STC">Wing B2896A</idno>
+            <idno type="STC">ESTC R214892</idno>
+            <idno type="EEBO-CITATION">99826943</idno>
+            <idno type="PROQUEST">99826943</idno>
+            <idno type="VID">31355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28147)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31355)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1862:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bill of sale In Westminster-Hall, on the 22d of January, will be sold by inch of candle, these following goods, in several parcels.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>M.DC.LXXX.IX. [1689]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>A satire.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="bill_of_sale">
+            <pb facs="tcp:31355:1" rendition="simple:additions"/>
+            <head>A BILL of SALE.</head>
+            <head type="sub">In <hi>Weſtminſter-Hall,</hi> on the <hi>22d.</hi> of <hi>January,</hi> will be Sold by Inch of Candle, theſe following Goods, in ſeveral Parcels.</head>
+            <list>
+               <head>The Firſt Lot.</head>
+               <item>1 ONE curious <hi>Web</hi> of the King's own <hi>Spinning,</hi> before he went off, by the Name of the <hi>Holy League,</hi> made with the <hi>French</hi> K. for extirpating <hi>Hereſie:</hi> At the price of an <hi>Engliſh Crown;</hi> to advance a <hi>Dutch Stiver.</hi>
+               </item>
+               <item>2 Another curious piece of the ſame <hi>Spinning,</hi> ſent to the ſame K. to Eſtabliſh the Proteſt<g ref="char:EOLhyphen"/>ant Religion, by Introducing a <hi>French</hi> Army: at the Rate of 500 Thouſand pounds; to advance 30000 Men.</item>
+               <item>3 2 I arge Pieces of <hi>Liberty of Conſcience,</hi> the one <hi>Changeable,</hi> the other <hi>Mazarene Blew,</hi> by ſetting up of <hi>Popery,</hi> at the loſs of a <hi>Kingdom;</hi> to advance the <hi>Church of England.</hi>
+               </item>
+               <item>4 One <hi>Kemnant</hi> more <hi>ditto,</hi> by the Name of <hi>Toleration,</hi> at the ſame Rate; to advance on the ſame manner.</item>
+               <item>5 3 Pints of Q. <hi>Mary's Milk,</hi> found by the Lady <hi>Powis</hi> upon her Smock, before the Birth of the P. of <hi>W—s:</hi> valued; Kingdoms; to advance a P—ſh Succeſſor.</item>
+               <item>6 3 Grains of the D. of <hi>Berwick</hi>'s moſt Refin'd Wit, with as many more extracted from the Brains of his disbanded <hi>Dear Joys:</hi> valu'd; pence half a grain; to advance a new Far<g ref="char:EOLhyphen"/>thing each bidding.</item>
+               <item>7 2 Whole Pieces of the Ld. <hi>Peterborough</hi>'s Religion, both <hi>Changeable Green:</hi> valued at 10000 Oaths, when he was clapt in the <hi>Tower;</hi> to advance 500 each bidding.</item>
+               <item>8 The very ſame <hi>Scarlet Cloak, Hat and Feather,</hi> Father <hi>Petre</hi> had on, when he made his eſcape into <hi>France;</hi> whereof, Father <hi>Gregory</hi> is to have the Refuſal; valu'd at a 100 Thou<g ref="char:EOLhyphen"/>ſand Guinneys; to advance 1000 each bidding.</item>
+               <item>9 The <hi>Holy Robes,</hi> and <hi>Conſecrated Veſtments</hi> of the Right Reverend Fathers, Dr. <hi>Ellis,</hi> and Dr. <hi>Hall;</hi> when they were made Biſhops, ſince changed into <hi>Red Coats:</hi> valued 100 pound; to advance 50 for a pair of Oars.</item>
+               <item>10 6 Large <hi>Canonical Gewns</hi> and <hi>Coſſacks,</hi> cut out of St. <hi>Paul</hi>'s own Cloak, for the <hi>Roman</hi> Prieſts to ſcamper off in viſſible: each valued at 20 pound; to advance 5 pound each bidding.</item>
+               <item>11 2 Conſecrated <hi>Grid-Irons,</hi> brought from the Chappel of the Benedictins in St. <hi>Johns</hi>'s, which coſt 100 pound each, to broyl Hereticks: now we can afford it at ſo many Shil<g ref="char:EOLhyphen"/>lings; to advance a <hi>Benedictin Monk</hi> each bidding.</item>
+               <item>12 2 Brace of monumental Spits, brought from the ſame place, to roaſt them by Couples: valued <hi>Purgatory;</hi> to advance 6 <hi>Maſſes</hi> each bidding.</item>
+               <item>13 6 Dozen of new faſhioned <hi>Bridles,</hi> made in <hi>Southwark,</hi> to extort them to Abjuration: valued at 20 Shillings a <hi>Bridle;</hi> to advance 6 pence each bidding.</item>
+               <item>14 2 Foot of the ſelf ſame Rope, the Ld. <hi>Chancellor</hi> long ſince fancy'd in a Dream, now come to paſs in the <hi>Tower:</hi> vallued at the price of a <hi>Purſe</hi> and <hi>Mace;</hi> to advance a Gibbet.</item>
+               <item>15 2 Foot of the ſelf ſame ſtuff, ſupported the Ld. <hi>Moulgrave</hi>'s Pride at <hi>White-Hall,</hi> now cringing at St. <hi>James</hi>'s: valued once at 20000 pound, now ſcarce ſo many pence, to ad<g ref="char:EOLhyphen"/>vance a half penny.</item>
+               <item>16 2 Pieces of the Ld. <hi>Feverſham</hi>'s Courage, half penny broad, proportionable to his Con<g ref="char:EOLhyphen"/>duct: vallued at the price of a <hi>Blew Garter;</hi> to advance a new Crevat-ſtring, <hi>Orange Collour.</hi>
+               </item>
+               <item>17 The ſelf-ſame blank Commiſſion, granted to the Ld. <hi>Powis,</hi> to be Ld. <hi>Chancollour</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> vallued then at 4000 pound, <hi>per annum,</hi> now at nothing; to advance propottionably.</item>
+               <item>18 2 Large Sheets of the Ld. <hi>Salisbury</hi>'s Pardon, under the great Seal: valued at the ſame Rate; to advance on the ſame manner.</item>
+               <item>19 The Ld. <hi>Arrundell</hi>'s Privy Seal: valued at the Rate of an Halter, <hi>Orange Tawvy;</hi> to ad<g ref="char:EOLhyphen"/>vance a Popiſh Councellour.</item>
+               <pb facs="tcp:31355:2" rendition="simple:additions"/>
+               <item> 20 3 Infallible Articles of the Ld. <hi>Bellaſis</hi>'s Depoſitions, proving the Legittimacy of the Prince of <hi>Wales:</hi> valued 3 pence, to advance a new Farthing.</item>
+               <item>21 4 Inviſible <hi>Boxes</hi> full of <hi>Sacred Reliques,</hi> taken by the Mobile, from the Embaſſadour's Chappel in <hi>Wild-Street:</hi> valued 80000 pounds, to advance a broken States-man.</item>
+               <item>22 1 Rich Crown Jewel, dropt out of the Queen's own <hi>Box,</hi> ſtole away by the <hi>Itallian</hi> Prieſt: vallued at the price of a double Clout, to advance a Surreverence.</item>
+               <item>23 3 Ells of the Counteſs of <hi>Dorcheſter</hi>'s Virginity, full yard wide, and a little better, by the Stan dard: valued once at 20000 pounds; to advance a Crown each bidding.</item>
+               <item>24 3 Ells of the Lady <hi>Mary Ratcliff</hi>'s Chaſtity, ſtole away by the <hi>French</hi> Fiddler, who <hi>Mar<g ref="char:EOLhyphen"/>ried</hi> the Mother, and <hi>Buggered</hi> the Daughter: valued at 10000 pounds, to advance for a <hi>P—ſh Squire.</hi>
+               </item>
+               <item>25 A new Mathemattical Nut-cracker, for his <hi>Monki-ſhip</hi> the Ld. <hi>Walgrave,</hi> to keep his Chops going at home, while the Squirril his Wife is playing with her Tail abroad: valued at a Guinney, to advance half a Crown.</item>
+               <item>26 12 Spick and ſpan new Halters, Eleven whereof for the diſpenſing Judges, the other for the late Speaker <hi>Williams:</hi> valled a Mark, to advance 13 pence half penny.</item>
+               <item>27 As many new Maiden Blocks, whereon Ax was never yet laid, ſince the making, for the Popiſh Converts, and Councels: valued 10 Shillings a piece, to advance a Traytor's Head:</item>
+               <item>28 2 Curious fine ſpun Bills, one for the diſcovering the Intrigues of State, the other the <hi>Birth of the</hi> Prince of <hi>Wales</hi> of the Ld. <hi>Chancellour</hi>'s own drawing, to be preſented to the Houſe this Seſſion: valued his Neck, to advance upon Diſcretion.</item>
+               <item>29 2 Pots of round and ſound pickled Proteſtants, amongſt whom is <hi>Peterborow, Sunderland, Huntingdou, Le'ſtrange, Lobb</hi> and <hi>Pen:</hi> valued two Marks each Pot; to advance a Noble, or counterfeit half-penny each bidding.</item>
+               <item>30 A new <hi>Book of Rates,</hi> of the <hi>Cuſtom, Trade and Manufacture</hi> of this <hi>Kingdom,</hi> to be pre<g ref="char:EOLhyphen"/>ſented the ſame day: valued once at 2 Millions, ſpent upon the Prieſts; now to be con<g ref="char:EOLhyphen"/>verted to its proper Uſe.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>WHereas, there are ſeveral Popiſh Prieſts, M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nks and Jeſuits; with as many <hi>Iriſh</hi> Cut-Throats, ſtill lurking in this City, contrary to the late Order of Council, and the Fundamental Laws of the Realm. Theſe are to give notice, that if any Perſon or Perſons, ſhall diſcover either Prieſt or Papiſt, after the 22<hi>d.</hi> aforeſaid; ſo that he be brought, dead or alive, before the Bar of the ſaid Houſe, ſhall have the price of a ſhe Wolf's Head for his Reward.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed in the Year, M.DC.IXXX.IX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
